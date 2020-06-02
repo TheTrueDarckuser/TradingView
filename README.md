@@ -12,5 +12,4 @@ You must have pip installed
 ```
 pip install selenium
 ```
-Install [geckodriver](https://github.com/mozilla/geckodriver/releases)
-Install [Firefox](https://www.mozilla.org/firefox/new/)
+Install [geckodriver](https://github.com/mozilla/geckodriver/releases), [Firefox](https://www.mozilla.org/firefox/new/)
